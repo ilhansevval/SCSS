@@ -1,0 +1,28 @@
+aside, section{
+    float: left;
+}
+
+aside{
+    width: 30%;
+    padding: 20px;
+
+    & > ul{
+        list-style: none;
+
+        & > li{
+            margin-bottom: 10px;
+
+            & > a{
+                color: var(--link-color);
+                padding: 6px 10px;
+                display: block;
+                text-decoration: none;
+
+                &:hover{
+                    color: var(--link-color-hover);
+                    background-color: var(--silver);
+                }
+            }
+        }
+    }
+}
