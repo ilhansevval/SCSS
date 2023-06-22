@@ -18,6 +18,8 @@ This repository includes a set of documents and codes on SCSS to improve my skil
 
 [Pico SCSS Clone Project](https://pico-scss-clone.netlify.app/)
 
+[SCSS Documentation](https://sass-lang.com/)
+
 For working on with the SCSS, you need to install **Live Sass Compiler** extension to Vscode.
 
 ```"liveSassCompile.settings.formats": [
@@ -31,8 +33,7 @@ For working on with the SCSS, you need to install **Live Sass Compiler** extensi
         },
     ]`
 
-And you need to some configurations in the settings.json file as i mentioned above.
 
-[Documentation](https://sass-lang.com/)
+And you need to some configurations in the settings.json file as i mentioned above.
 
 If you want to do more complex configurations, you can take a look at the documentation. 
